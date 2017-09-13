@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Hello world!
+				Sample Web Application for CA Release Automation Demo !!
 			</h1>
 		
 			<div>
