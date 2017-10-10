@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Sample Web Application for CA Release Automation Demo !!
+				Vijin Sunil and Mohanraj !!
 			</h1>
 		
 			<div>
