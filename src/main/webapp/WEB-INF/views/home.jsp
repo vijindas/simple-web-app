@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Vijin Sunil and Mohanraj !!
+				Vijin Sunil and Mohanraj Bangalore!!
 			</h1>
 		
 			<div>
