@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				Vijin Sunil and Mohanraj Bangalore!!
+				DevOps Amazing!!
 			</h1>
 		
 			<div>
