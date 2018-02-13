@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-				DevOps Bangalore !!
+			Yuvaraj and Hari are Best Friends !!
 			</h1>
 		
 			<div>
