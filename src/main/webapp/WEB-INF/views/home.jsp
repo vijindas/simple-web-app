@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-			Yuvaraj and Hari are TECHMAHINDRA Friends !!
+			Yuvaraj and Hari are TRUE Friends !!
 			</h1>
 		
 			<div>
