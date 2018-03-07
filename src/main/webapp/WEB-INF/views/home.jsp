@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-			Yuvaraj and Hari are TRUE Friends !!
+			Mohanraj Vellingiri Friends !!
 			</h1>
 		
 			<div>
