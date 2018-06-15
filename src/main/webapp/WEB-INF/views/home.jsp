@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-			Mohanraj Vellingiri Friends !!
+			Sandhya Mess Friends !!
 			</h1>
 		
 			<div>
