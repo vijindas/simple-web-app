@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-			Sandhya Mess Friends !!
+			TECHM INDIA !!
 			</h1>
 		
 			<div>
