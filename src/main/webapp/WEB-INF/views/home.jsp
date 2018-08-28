@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-			TECHM INDIA !!
+			VIRAT KOHLI The Indian Cricketer !
 			</h1>
 		
 			<div>
