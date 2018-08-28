@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-			VIRAT KOHLI The Indian Cricketer !
+			Vimal and Pradeep are in DepOps
 			</h1>
 		
 			<div>
