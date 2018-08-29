@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-			Vimal and Pradeep are in DepOps
+	Today is Wednesday
 			</h1>
 		
 			<div>
