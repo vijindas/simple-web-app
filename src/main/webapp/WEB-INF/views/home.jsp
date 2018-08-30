@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-	Today is Wednesday
+DevOps helps all
 			</h1>
 		
 			<div>
