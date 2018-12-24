@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-DevOps helps all
+East or West brajesh is the best
 			</h1>
 		
 			<div>
