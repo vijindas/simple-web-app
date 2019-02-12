@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-Saibalaji is Cute
+Demo Program from TechM for GSK
 			</h1>
 		
 			<div>
