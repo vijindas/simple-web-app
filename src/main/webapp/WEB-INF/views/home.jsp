@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-Demo Program from TechM for GSK
+Demo In Progress
 			</h1>
 		
 			<div>
