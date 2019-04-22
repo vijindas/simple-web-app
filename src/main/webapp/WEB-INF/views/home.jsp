@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-Demo is Completed Checking the issue
+Demo is Completed Checking the issue New
 			</h1>
 		
 			<div>
