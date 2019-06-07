@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-This Prudential Demo
+Srikar and SaiCharan  SS Technology !
 			</h1>
 		
 			<div>
