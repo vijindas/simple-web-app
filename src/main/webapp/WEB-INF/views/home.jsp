@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-Srikar and SaiCharan  SS Technology !
+We are in TechMahindra Bangalore
 			</h1>
 		
 			<div>
