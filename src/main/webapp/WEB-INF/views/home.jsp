@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>
-We are in TechMahindra Bangalore
+Namma Anna Sharath
 			</h1>
 		
 			<div>
