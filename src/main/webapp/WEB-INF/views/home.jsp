@@ -8,9 +8,10 @@
 	<div class="row-fluid">
 		<div class="span10 offset1">
 
-			<h1>
-Namma Anna Sharath
-			</h1>
+			<h1> Namma DevOps Class	</h1>
+			<h1> Namma DevOps Class	</h1>
+			<h1> Namma DevOps Class	</h1>
+			<h1> Namma DevOps Class	</h1>
 		
 			<div>
 				<p class="well">
