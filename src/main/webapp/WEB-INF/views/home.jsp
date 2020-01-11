@@ -11,7 +11,9 @@
 			<h1> namma class DevOps Class	11 02 2020 Sharath</h1>
 			<h1> Namma class DevOps Class	11 02 2020</h1>
 			<h1> Namma class DevOps Class	11 02 2020</h1>
-			<h1> Namma class DevOps class   12 02 2020</h1>
+			<h1> Namma class DevOps class   12 02 2020 vijindas </h1>
+			<h1> Namma class DevOps Class	11 02 2020</h1>
+			<h1> Namma class DevOps class   12 02 2020</h1
 		
 			<div>
 				<p class="well">
