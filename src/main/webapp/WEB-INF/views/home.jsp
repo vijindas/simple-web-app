@@ -9,7 +9,7 @@
 		<div class="span10 offset1">
 
 			<h1>2 Namma DevOps Class	11 02 2020</h1>
-			<h1>3 welcome Home</h1>
+			<h1>3 welcome Covid 2021</h1>
 		
 			<div>
 				<p class="well">
